@@ -4,4 +4,5 @@ shou conflict
 server><oi
 my server is no found
 ddd
+my conflict
 new conflict
