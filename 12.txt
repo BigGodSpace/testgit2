@@ -1,4 +1,4 @@
-new friend
+inew friend
 shut up
 show/n
 mySQL
@@ -6,16 +6,20 @@ mySQL
 nnn
 dddswdw
 jjdff
+122222aaaaaa
+小伙伴修改的内容
+dsfsdfs
+dddsww
+helhe
 ddddsss
 fasdsdfsdfsf
-dddd
-psp
-fb1
-fb2
-ddd
 fuck lk
+<<<<<<< HEAD
 shou
 yanhe branch
 yanhe branch  2
 hghhhgh
 newlianss
+=======
+sdsdsdsdsdsdssd
+>>>>>>> newshy
