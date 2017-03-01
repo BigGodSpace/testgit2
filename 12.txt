@@ -5,7 +5,7 @@ mySQL
 我是分支dev
 nnn
 dddswdw
-jjdff
+jjidff
 122222aaaaaa
 小伙伴修改的内容
 dsfsdfs
@@ -14,12 +14,9 @@ helhe
 ddddsss
 fasdsdfsdfsf
 fuck lk
-<<<<<<< HEAD
 shou
 yanhe branch
 yanhe branch  2
 hghhhgh
-newlianss
-=======
-sdsdsdsdsdsdssd
->>>>>>> newshy
+newlians
+sdsdsdjj
